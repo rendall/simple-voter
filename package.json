@@ -1,9 +1,0 @@
-{
-  "name": "simple-voter",
-  "version": "1.0.0",
-  "description": "A simple vote-collecting site",
-  "main": "index.js",
-  "repository": "https://github.com/rendall/simple-voter.git",
-  "author": "Rendall",
-  "private": false
-}

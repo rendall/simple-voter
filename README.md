@@ -19,3 +19,7 @@ Yes. Easily. This is only for informal voting amongst co-workers or friends. Do 
 ## Limits
 
 The votes exist in-memory only as long the links stay open. Not meant for long deliberations.
+
+## Credit
+
+Borrowed heavily from <https://github.com/aws-samples/simple-websockets-chat-app/> and <https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html>
